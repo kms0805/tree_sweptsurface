@@ -1,0 +1,263 @@
+BSPLINE # Curve type (BSPLINE or CATMULL_ROM)
+20 # The number of cross sections.
+8 # The number of control points per cross section
+
+# Cross Section 01
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+0 # Scaling factor
+0.0 0 0 0 # Rotation
+0 -22 0 # Position 
+
+# Cross Section 02
+5 5 # The 2D position of control points
+25 0
+5 -5
+0 -25
+-5 -5
+-25 0
+-5 5
+0 25
+1 # Scaling factor
+0.0 1 0 0 # Rotation
+0 -22 0 # Position
+
+# Cross Section 03
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+1 # Scaling factor
+0.0 1 0 0 # Rotation
+0 -21 0 # Position
+
+# Cross Section 04
+5 5 # The 2D position of control points
+6 0
+5 -5
+0 -6
+-5 -5
+-6 0
+-5 5
+0 6
+1 # Scaling factor
+0.0 1 0 0 # Rotation
+0 -18 0 # Position
+
+# Cross Section 05
+5 5 # The 2D position of control points
+6 0
+5 -5
+0 -6
+-5 -5
+-6 0
+-5 5
+0 6
+1 # Scaling factor
+0.0 1 0 0 # Rotation
+0 -8 0 # Position
+
+# Cross Section 06
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+3 # Scaling factor
+0.3 0 1 0 # Rotation
+0 -9 0 # Position 
+
+# Cross Section 07
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+2 # Scaling factor
+0.6 0 1 0 # Rotation
+0 0 0 # Position 
+
+# Cross Section 08
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+3 # Scaling factor
+0.6 0 1 0 # Rotation
+0 -1 0 # Position 
+
+# Cross Section 09
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+1.5 # Scaling factor
+0.9 0 1 0 # Rotation
+0 10 0 # Position 
+
+# Cross Section 10
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+2.5 # Scaling factor
+0.5 0 1 0 # Rotation
+0 8 0 # Position 
+
+# Cross Section 11
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+1 # Scaling factor
+0.3 0 1 0 # Rotation
+0 23 0 # Position 
+
+# Cross Section 12
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+2  # Scaling factor
+0.5 0 1 0 # Rotation
+0 20 0 # Position 
+
+# Cross Section 13
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+0.5  # Scaling factor
+0.7 0 1 0 # Rotation
+0 35 0 # Position 
+
+# Cross Section 14
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+1  # Scaling factor
+0.5 0 1 0 # Rotation
+0 33 0 # Position
+
+# Cross Section 15
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+0.3  # Scaling factor
+0.3 0 1 0 # Rotation
+0 40 0 # Position 
+
+# Cross Section 16
+5 5 # The 2D position of control points
+15 0
+5 -5
+0 -15
+-5 -5
+-15 0
+-5 5
+0 15
+0.001  # Scaling factor
+1 0 1 0 # Rotation
+0 50 0 # Position
+
+# Cross Section 17
+5 5 # The 2D position of control points
+35 0
+5 -5
+0 -35
+-5 -5
+-35 0
+-5 5
+0 35
+0  # Scaling factor
+-1 1 0 0 # Rotation
+0 50 1 # Position 
+
+# Cross Section 18
+5 5 # The 2D position of control points
+45 0
+5 -5
+0 -45
+-5 -5
+-45 0
+-5 5
+0 45
+0.3  # Scaling factor
+-1 1 0 0 # Rotation
+0 50 1 # Position
+
+# Cross Section 19
+5 5 # The 2D position of control points
+45 0
+5 -5
+0 -45
+-5 -5
+-45 0
+-5 5
+0 45
+0.3  # Scaling factor
+-1 1 0 0 # Rotation
+0 51 2 # Position 
+
+# Cross Section 20
+5 5 # The 2D position of control points
+45 0
+5 -5
+0 -45
+-5 -5
+-45 0
+-5 5
+0 45
+0  # Scaling factor
+-1 1 0 0 # Rotation
+0 51 2 # Position
